@@ -1,0 +1,20 @@
+{
+    "Author": "Andreas Wieberneit (MSFT)",
+    "ContentSize": 2904,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/create-a-new-key-vault/master/New-KeyVault.ps1",
+    "DownloadCount": 818,
+    "Id": "Create-a-new-Key-Vault-6e54828e",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 262,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2016-4-15T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This runbook shows how to create a new Key Vault from Azure Automation. It requires an Azure Run As account and additional modules, see the PREREQUISITE sections in the runbook for details. The runbook will use the Run As account to authenticate against Key Vault. If successful",
+    "Title": "Create a new Key Vault",
+    "UpdatedDate": "2016-4-16T00:00:00",
+    "Url": "https://github.com/azureautomation/create-a-new-key-vault",
+    "UserTags": "Utility, Dev / Test Environments"
+}
